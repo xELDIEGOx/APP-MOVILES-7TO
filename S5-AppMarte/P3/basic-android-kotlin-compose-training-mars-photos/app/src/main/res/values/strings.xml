@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reconocimiento Marte</string>
+    <string name="loading_failed">Fallo de carga</string>
+    <string name="retry">Reintentar</string>
+    <string name="loading">Cargando...</string>
+    <string name="placeholder_success">Placeholder text</string>
+    <string name="mars_photo">Reconocimiento Marte</string>
+</resources>
